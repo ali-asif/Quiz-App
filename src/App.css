@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+}
+.App{
+  text-align: center;
+  color: #00FFFF;
+}
+.Card{
+  text-align: left;
+  max-width: 500px; 
+  padding: 50px;
+  margin: 0 auto;
+  margin-top: 50px;
+  background-color: rgb(180, 173, 163);
+  box-shadow: 0px 5px 35px  #00FFFF;
+  border-radius: 5%;
+  color: black;
+}
+.card-submit  .Submit {
+  width: 100%;
+  color:white;
+  border-radius: 5px;
+  padding: 7px;
+  background-color: black;
+}
+.gap{
+  margin: 10px 0px ;
+  
+}
+
